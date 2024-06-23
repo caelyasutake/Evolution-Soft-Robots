@@ -1,6 +1,6 @@
 #Evolution of Soft-Robots
 
-{{< figure src="MSL_PS.gif" >}}
+![MSL](MSL_PS.gif?raw=true "Title")
 
 Evolving Soft Robots to walk via Genetic Programming is a current project exploring the process of synthetic evolution with the hopes of finding innovative locomotion techniques. 
 
